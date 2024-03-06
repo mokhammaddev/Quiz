@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 
     # third party apps
     'drf_yasg',
-    'ckeditor',
+    # 'ckeditor',
     'rest_framework',
     'rest_framework_simplejwt',
 
